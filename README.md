@@ -51,7 +51,7 @@
 ### ☁️ Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,visualstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
 </p>
 
 ---
