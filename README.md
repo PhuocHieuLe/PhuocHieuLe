@@ -147,8 +147,8 @@
     <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 
-  <a href="https://facebook.com/phuoc.hieu.le.2025" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=facebook" height="40" />
+  <a href="https://www.instagram.com/hiuph.le_/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
 
